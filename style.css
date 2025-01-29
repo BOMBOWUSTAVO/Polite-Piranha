@@ -1,0 +1,28 @@
+.Tela_1{
+    background-color: crimson;
+    padding: 20px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    justify-content: right;
+}
+li{
+    margin: 15px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h1, h2{
+    text-align: center;
+}
+.line{
+    width: 200px;
+    height: 3px;
+    background-color: white;
+    margin-bottom: 20px;
+}
+img{
+    width: 350px;
+}
